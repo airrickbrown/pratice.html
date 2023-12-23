@@ -1,0 +1,22 @@
+h1{
+    word-spacing: 1px;
+    color: blueviolet;
+}
+body{
+    align-items: center;
+    background-color: bisque;
+    margin-left: 5em;
+    padding: 2ch;
+    
+}
+tr{
+    color: rgb(8, 18, 4);
+}
+th{
+    background-color: black;
+    color: white;
+}
+td{
+    background-color: rgb(141, 136, 136);
+    color: white;
+}
